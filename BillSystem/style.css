@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  font-family: var(--bs-font-sans-serif);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.0;
+  color: #212529;
+  background-color: #fff;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+tr:nth-child(odd) {
+  background-color: lightgrey;
+}
+
+
+table {
+    border: 1px solid black;
+    font-size: small;
+    width: 20%;
+    text-align: center;
+  }
+
+
+  td{
+    text-align: center;
+    border: 1px solid black;
+    font-size: medium;
+
+
+  }
+  
+  th{
+    border: 1px solid black;
+    font-size: 22px;
+    padding-right: 15px;
+    text-align: center;
+  }
+
+
+  .center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.button
+{
+  font-size: smaller;
+}
+
+.total
+{
+  background-color: aqua;
+  width: fit-content;
+}
+
+label
+{
+  font-size: small;
+  font-weight: bold;
+}
+
+input{
+  font-size: small;
+}
+
+b{
+  font-size: large;
+}
+
+.small{
+  width: 5%;
+}
+.medium{
+  display: flexbox;
+  width: 6%;
+}
+
+.buttons
+{
+  display: inline;
+}
+
+box
+{
+  border: 1px solid black;
+  position: absolute;
+  right: 1%;
+}
+
+.margin
+{
+ padding-left: 70px;
+ padding-right: 70px;
+}
