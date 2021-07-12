@@ -1,0 +1,17 @@
+.listItems{
+    background-color: rgb(194, 93, 93);
+    display: flex;
+    /* /* justify-content: center; */
+    text-decoration: none;
+    flex-direction: row;
+}
+.navigationBar{
+    /* background-color: rgb(106, 196, 46); */
+    /* display: flex; */
+    justify-content: center;
+    /* flex-direction: row; */
+}
+.list{
+    /* text-decoration: none; */
+    list-style-type:none;
+}
